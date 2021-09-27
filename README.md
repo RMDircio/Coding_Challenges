@@ -1,17 +1,23 @@
-# Coding_Challenges
+# Coding Challenges
 A collection of Coding Challenges with thought processes.
 
 # Style Guide
 
+Link to location of challenge
+- List of topics covered
+
+<hr/>
 
 Name of challenge
+- Description 
+- Tests that given
 
-Description of challenge
+<hr/>
 
-Concepts
+My Solution with my understanding of the problem
+- Thought process
 
-Methods/Functions
+<hr/>
 
-My Solution
-
-Alternative Solutions (including possible Primary Solution)
+Other Solutions
+- Clever or interesting ways to solve
